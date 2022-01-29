@@ -12,17 +12,17 @@ var estudiantes = [
         carrera: "IRYC"
     },
     {
-        apellidop: "",
-        apellidom: "",
-        nombre: "",
-        edad: 1,
+        apellidop: "De Luna",
+        apellidom: "De la Fuente",
+        nombre: "Fernando",
+        edad: 21,
         fechanacimiento: {
-            año: 1111,
-            mes: "",
-            dia: 1
-        },
+        año: 2000,
+        mes: "Agosto",
+        dia: 22
+         },
         carrera: "IRYC"
-    } 
+        },
     
 ]
 var table = document.getElementsByTagName("table")[0];
